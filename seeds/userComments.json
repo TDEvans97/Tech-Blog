@@ -1,0 +1,17 @@
+[
+    {
+        "text": "I agree. React speeds everything up!",
+        "user_id": 2,
+        "posts_id": 1
+    },
+    {
+        "text": "Take care of yourself mentally and keep your head up! This is the hardest thing I have ever done. Even then I need to relearn everything post-bootcamp.",
+        "user_id": 3,
+        "posts_id": 2
+    },
+    {
+        "text": "Hang in there!",
+        "user_id": 4,
+        "posts_id": 2
+    }
+]

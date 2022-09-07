@@ -1,0 +1,12 @@
+[
+    {
+        "title": "React",
+        "text": "React is such a great tool for the frontend",
+        "user_id": 1
+    },
+    {
+        "title": "Rollercoaster",
+        "text": "Learning fullstack development in three months can be a stressful experience. Some days I feel like I'm at the top of my class. Other days, I'm down in the mud struggling to catch up.",
+        "user_id": 2
+    }
+]
